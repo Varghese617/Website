@@ -1,0 +1,40 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(77, 126, 170);
+}
+p{
+  color: rgb(0, 0, 0);
+}
+h5{
+  color: rgb(167, 0, 28);
+}
+.navbar-brand {
+  font-weight: bold;
+  color: #691dd4 !important;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #7ca22f, #9e20b4);
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+footer {
+  border-top: 1px solid #dee2e6;
+}
